@@ -1,5 +1,5 @@
 {
-  "project": "https://github.com/vamkumar/aem-edgedelivery",
+  "project": "aem-edgedelivery",
   "plugins": [
     {
       "id": "asset-library",
